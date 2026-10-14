@@ -47,7 +47,7 @@ Status updates stream back to the UI as each stage completes, and a trace link i
 
 
 ```bash
-git clone https://github.com/<your-username>/deep-research-agent.git
+git clone https://github.com/sandeepsingh2406/deep-research-agent.git
 cd deep-research-agent
 
 python -m venv .venv
